@@ -1,0 +1,3 @@
+[submodule "submodules/gpt-code-ui"]
+	path = submodules/gpt-code-ui
+	url = git@github.com:ricklamers/gpt-code-ui.git
